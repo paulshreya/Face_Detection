@@ -1,4 +1,4 @@
-### Face Recognition from Video
+# Face Recognition from Video
 
 ## Overview
 This project is a Python-based face recognition system designed to detect faces in a video stream and compare them with a preloaded dataset of facial features associated with different personalities. It utilizes popular libraries such as OpenCV and dlib for face detection and recognition.
@@ -13,4 +13,7 @@ This project is a Python-based face recognition system designed to detect faces 
 2. OpenCV
 3. dlib
 4. Other dependencies (install using pip install -r requirements.txt)
+
+## Contributing
+If you'd like to contribute to the project, feel free to fork the repository and submit pull requests. We welcome contributions to improve features, fix bugs, or enhance the user experience.
 I
